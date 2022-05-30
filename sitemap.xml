@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/categories/</loc>
     <lastmod>2022-05-09T10:38:24+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/d%C3%A9veloppement-web/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/categories/d%C3%A9veloppement-web/</loc>
     <lastmod>2022-05-09T10:38:24+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/</loc>
     <lastmod>2022-05-09T10:38:24+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/projet/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/categories/projet/</loc>
     <lastmod>2022-05-09T10:38:24+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet1/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/projets/projet1/</loc>
     <lastmod>2022-05-09T10:38:24+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet2/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/projets/projet2/</loc>
     <lastmod>2022-05-09T10:38:24+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet3/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/projets/projet3/</loc>
     <lastmod>2022-05-09T10:38:24+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/projets/</loc>
     <lastmod>2022-05-09T10:38:24+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/blog/</loc>
     <lastmod>2022-04-25T11:15:39+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/mon-second-article/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/blog/mon-second-article/</loc>
     <lastmod>2022-04-25T11:15:39+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/mon-premier-article/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/blog/mon-premier-article/</loc>
     <lastmod>2022-04-25T11:15:39+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sontagmaxime.github.io/PorteFolio/tags/</loc>
   </url>
 </urlset>
