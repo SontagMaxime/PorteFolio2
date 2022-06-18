@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projet on My New Hugo Site</title>
+    <title>Projet on Mon site en Hugo</title>
     <link>https://sontagmaxime.github.io/PorteFolio/categories/projet/</link>
-    <description>Recent content in Projet on My New Hugo Site</description>
+    <description>Recent content in Projet on Mon site en Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 May 2022 10:38:24 +0200</lastBuildDate><atom:link href="https://sontagmaxime.github.io/PorteFolio/categories/projet/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projet 1</title>
+      <title>Projet 1 2048</title>
       <link>https://sontagmaxime.github.io/PorteFolio/projets/projet1/</link>
       <pubDate>Mon, 09 May 2022 10:38:24 +0200</pubDate>
       
       <guid>https://sontagmaxime.github.io/PorteFolio/projets/projet1/</guid>
-      <description>test</description>
+      <description>Le jeu du 2048 a été mon premier projet d&amp;rsquo;implementation d&amp;rsquo;une interface graphique d&amp;rsquo;un jeu.
+Le but du jeu est de faire glisser des tuiles sur une grille, pour combiner les tuiles de mêmes valeurs et créer ainsi une tuile portant le nombre 2048. Le joueur peut toutefois continuer à jouer après cet objectif atteint pour faire le meilleur score possible.</description>
     </item>
     
     <item>
-      <title>Projet 2</title>
+      <title>Projet 2 Wordle</title>
       <link>https://sontagmaxime.github.io/PorteFolio/projets/projet2/</link>
       <pubDate>Mon, 09 May 2022 10:38:24 +0200</pubDate>
       
       <guid>https://sontagmaxime.github.io/PorteFolio/projets/projet2/</guid>
-      <description>test</description>
+      <description>Le jeu du Wordle a été mon second projet d&amp;rsquo;implementation d&amp;rsquo;une interface graphique d&amp;rsquo;un jeu.
+Le principe est simple : il faut découvrir un mot de cinq lettres en six essais, comme dans feu Motus (ou Lingo aux Etats-Unis), grâce à des indications sur les lettres bien et mal placées. Rapidement, ses amis et sa famille se prennent au jeu.</description>
     </item>
     
     <item>
-      <title>Projet 3</title>
+      <title>Projet 3 Taquin</title>
       <link>https://sontagmaxime.github.io/PorteFolio/projets/projet3/</link>
       <pubDate>Mon, 09 May 2022 10:38:24 +0200</pubDate>
       
       <guid>https://sontagmaxime.github.io/PorteFolio/projets/projet3/</guid>
-      <description>test</description>
+      <description>Le jeu du Taquin a été mon troisème projet d&amp;rsquo;implementation d&amp;rsquo;une interface graphique d&amp;rsquo;un jeu.
+Jeu du Taquin. But du jeu : Sur un plateau de 16 cases, il faut replacer, en les glissant, 15 pions dans le bon ordre avec le moins de mouvements possibles. Une liste de choix permet la sélection du type de taquin avec des chiffres des lettres ou deux images.</description>
     </item>
     
   </channel>

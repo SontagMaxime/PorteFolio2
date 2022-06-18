@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on My New Hugo Site</title>
+    <title>Blogs on Mon site en Hugo</title>
     <link>https://sontagmaxime.github.io/PorteFolio/blog/</link>
-    <description>Recent content in Blogs on My New Hugo Site</description>
+    <description>Recent content in Blogs on Mon site en Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Apr 2022 11:15:39 +0200</lastBuildDate><atom:link href="https://sontagmaxime.github.io/PorteFolio/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mon Deuxième Article</title>
-      <link>https://sontagmaxime.github.io/PorteFolio/blog/mon-second-article/</link>
-      <pubDate>Mon, 25 Apr 2022 11:15:39 +0200</pubDate>
-      
-      <guid>https://sontagmaxime.github.io/PorteFolio/blog/mon-second-article/</guid>
-      <description>Playstation, c&amp;rsquo;est de la merde</description>
-    </item>
-    
     <item>
       <title>Mon Premier Article</title>
       <link>https://sontagmaxime.github.io/PorteFolio/blog/mon-premier-article/</link>
       <pubDate>Mon, 25 Apr 2022 11:15:39 +0200</pubDate>
       
       <guid>https://sontagmaxime.github.io/PorteFolio/blog/mon-premier-article/</guid>
-      <description>Xbox, c&amp;rsquo;est bien</description>
+      <description>Le college Anita Conti a été mon collège pendant 4 ans. Il s&amp;rsquo;agissait de mon collège de secteur qui venait d&amp;rsquo;être construit et qui a fais la fusion des deux anciens collège de Bully-les-Mines.</description>
+    </item>
+    
+    <item>
+      <title>Mon Second Article</title>
+      <link>https://sontagmaxime.github.io/PorteFolio/blog/mon-second-article/</link>
+      <pubDate>Mon, 25 Apr 2022 11:15:39 +0200</pubDate>
+      
+      <guid>https://sontagmaxime.github.io/PorteFolio/blog/mon-second-article/</guid>
+      <description>Le lycée Henri Darras a été mon lycée pendant 3 ans, il ne s&amp;rsquo;agissait pas de mon lycée de secteur, mais j&amp;rsquo;ai choisi d&amp;rsquo;aller à ce lycée pour pouvoir faire l&amp;rsquo;option ICN, car mon lycée de secteur ne me permettait pas de me diriger dans l&amp;rsquo;informatique.
+J&amp;rsquo;ai donc pu à partir de la première prendre l&amp;rsquo;option NSI pour commencer à apprendre la programmation et ça m&amp;rsquo;a permis d&amp;rsquo;être là où je veux maintenant, c&amp;rsquo;est-à-dire à l&amp;rsquo;IUT de Lens dans le département INFO.</description>
     </item>
     
   </channel>
